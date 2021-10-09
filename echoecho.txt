@@ -1,0 +1,19 @@
+Echo echo (Lab 1)
+Write a program printing the read numbers.
+Input
+n - numbers to be read.
+Then n numbers.
+Output
+n numbers given in input in the same order.
+Example
+
+Iutput
+3
+5
+12
+113
+
+Output
+5
+12
+113
